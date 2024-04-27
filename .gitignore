@@ -113,3 +113,5 @@ temp/
 
 # ODE result plot
 plot.png
+
+.DS_Store
