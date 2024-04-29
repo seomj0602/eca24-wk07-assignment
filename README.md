@@ -12,5 +12,5 @@ Implement `probability_below()` function.<br>`probability_below()` 함수를 구
 >>> data = (0, 1, 2, 3, 4)
 >>> bound = 1.5
 >>> print(probability_below(data, bound))
-0.2
+0.4
 ```
